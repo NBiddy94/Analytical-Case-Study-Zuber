@@ -1,5 +1,4 @@
 # Analytical-Case-Study-Zuber
-https://docs.google.com/spreadsheets/d/1kqMpD_ZDcdj1QA7paGOUIhHT0Ahof1tqoLWrjqM8v70/edit?usp=sharing
 
 A project completed with SQL to analyze passenger preferences and the impact of external factors on rides to communicate findings to help a new ride-sharing company launch successfully. 
 
