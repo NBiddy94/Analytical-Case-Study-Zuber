@@ -5,4 +5,4 @@ A project completed with SQL to analyze passenger preferences and the impact of 
 
 Analyzed data from competitors to test a hypothesis about the impact of weather on ride frequency.  Distinguished how the duration of rides from the different destinations changed on rainy Saturdays compared to other days of the week and other weather conditions.
 
-<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/007b2e7c-7e82-41bf-abbd-d5e4bdabff6e" />
+
